@@ -1,0 +1,14 @@
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.exe
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.deps.json
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.runtimeconfig.json
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.runtimeconfig.dev.json
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.dll
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\netcoreapp3.1\ConsoleApp49.pdb
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.csproj.AssemblyReference.cache
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.AssemblyInfoInputs.cache
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.AssemblyInfo.cs
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.csproj.CoreCompileInputs.cache
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.dll
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.pdb
+C:\Users\Даша ПК\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\netcoreapp3.1\ConsoleApp49.genruntimeconfig.cache
