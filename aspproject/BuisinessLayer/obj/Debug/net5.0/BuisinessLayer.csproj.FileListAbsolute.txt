@@ -1,0 +1,30 @@
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.AssemblyInfoInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.AssemblyInfo.cs
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\bin\Debug\net5.0\BuisinessLayer.deps.json
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\bin\Debug\net5.0\BuisinessLayer.dll
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\bin\Debug\net5.0\BuisinessLayer.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.csproj.CopyComplete
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.dll
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\obj\Debug\net5.0\refint\BuisinessLayer.dll
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\BuisinessLayer\obj\Debug\net5.0\ref\BuisinessLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\bin\Debug\net5.0\BuisinessLayer.deps.json
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\bin\Debug\net5.0\BuisinessLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\bin\Debug\net5.0\ref\BuisinessLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\bin\Debug\net5.0\BuisinessLayer.pdb
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\bin\Debug\net5.0\DataLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\bin\Debug\net5.0\DataLayer.pdb
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.csproj.AssemblyReference.cache
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.AssemblyInfoInputs.cache
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.AssemblyInfo.cs
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.csproj.CoreCompileInputs.cache
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.csproj.CopyComplete
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\obj\Debug\net5.0\ref\BuisinessLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\BuisinessLayer\obj\Debug\net5.0\BuisinessLayer.pdb

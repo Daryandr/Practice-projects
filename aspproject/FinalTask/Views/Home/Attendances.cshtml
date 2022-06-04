@@ -1,0 +1,47 @@
+﻿@model IEnumerable<DataLayer.Entityes.Attendance>;
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html>
+</html>
+<link rel="stylesheet" href="~/css/site.css">
+
+<div class="muslist">
+    
+    <table class="tab">
+        <caption>Лекции</caption>
+
+        <tr>
+            <th>Студент</th>
+            <th>Присутствие</th>
+            <th>Оценка</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            @using (Html.BeginForm("Attendances", "Home"))
+            {
+                <tr>
+                    @Html.HiddenFor(m => @item.Id)
+                    <td>@item.Student.Name</td>
+                    <td>@Html.TextBoxFor(m => item.Attend, new { type = "checkbox", @class = "text-box" })</td>
+                    <td>@Html.TextBoxFor(m => item.Grade, new { type = "number", @class = "text-box" })</td>
+                    <td>
+                        <div class="addmus">
+                            <input type="submit" value="Сохранить" />
+                        </div>
+                    </td>
+                </tr>
+            }
+        }
+        </table>
+    <div style="display:flex;">
+        <div class="addmus">
+            <a asp-action="Index">Вернуться к списку лекций</a>
+        </div>
+    </div>
+    
+</div>
