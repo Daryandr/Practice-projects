@@ -1,0 +1,30 @@
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\obj\Debug\net5.0\refint\DataLayer.dll
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache
+C:\Users\sasha\OneDrive\Рабочий стол\Проектная деятельность\Проект\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\bin\Debug\net5.0\DataLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\obj\Debug\net5.0\DataLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+F:\Даша ПК\Documents\Учеба\Проект\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache
